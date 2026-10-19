@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://example.com/</loc>
+    <lastmod>2026-10-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image><image:loc>https://example.com/img/anastasia-hero-960.jpg</image:loc><image:title>Анастасия Ельешевич — мастер перманентного макияжа</image:title></image:image>
+    <image:image><image:loc>https://example.com/img/master-class-process-960.jpg</image:loc><image:title>Мастер-класс по перманентному макияжу</image:title></image:image>
+    <image:image><image:loc>https://example.com/img/pigments-etalon-mix-960.jpg</image:loc><image:title>Пигменты для перманентного макияжа</image:title></image:image>
+    <image:image><image:loc>https://example.com/img/remover-nyse-system-960.jpg</image:loc><image:title>Удаление перманентного макияжа ремувером</image:title></image:image>
+  </url>
+</urlset>

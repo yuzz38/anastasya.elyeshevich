@@ -1,0 +1,14 @@
+{
+  "name": "Анастасия Ельешевич — перманентный макияж",
+  "short_name": "Ельешевич",
+  "lang": "ru",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1c1410",
+  "theme_color": "#1c1410",
+  "icons": [
+    {"src": "img/icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "img/icon-512.png", "sizes": "512x512", "type": "image/png"},
+    {"src": "favicon.svg", "sizes": "any", "type": "image/svg+xml"}
+  ]
+}
